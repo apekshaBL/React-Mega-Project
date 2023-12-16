@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-    <h1>Apeksha Bhausaheb Lokhande The Full Stack Developer!!</h1>
+    <h1>Apeksha </h1>
     </>
   )
 }
